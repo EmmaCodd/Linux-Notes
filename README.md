@@ -4,11 +4,9 @@
 
 Date: 2016-10-14
 
-这里包含了慕课网课程 ——《Linux达人养成计划 Ⅰ》的课堂笔记。文章有 word、html、pdf 三种版本，内容一致。
+这里包含了慕课网课程 ——《Linux达人养成计划 Ⅰ》的课堂笔记以及自己在 CentOs 7 上的实例演示。文章有 word、html、pdf 三种版本，内容一致。
 
 其中 pdf 单行本下载地址为 [Linux Notes.pdf | Google Drive](https://drive.google.com/open?id=0B-swxIcRWt5Ea0NZVF9DdHZLeW8)
-
-内容为 Tony 老师所授内容以及自己在 CentOs 7 上的演示
 
 * 命令格式
 * 目录处理命令（上）
