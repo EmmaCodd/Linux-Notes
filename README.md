@@ -4,7 +4,9 @@
 
 Date: 2016-10-14
 
-这里包含了慕课网课程 ——《Linux达人养成计划 Ⅰ》的课堂笔记。文章由 HTML 编写，排版清晰。Word 版本与 HTML 版本内容相同。
+这里包含了慕课网课程 ——《Linux达人养成计划 Ⅰ》的课堂笔记。文章有 word、html、pdf 三种版本，内容一致。
+
+其中 pdf 单行本下载地址为 [Linux Notes.pdf | Google Drive](https://drive.google.com/open?id=0B-swxIcRWt5Ea0NZVF9DdHZLeW8)
 
 内容为 Tony 老师所授内容以及自己在 CentOs 7 上的演示。
 
@@ -52,7 +54,3 @@ N 3
 #### 四、结语
 
 希望能对初学 Linux 的同学有所帮助。如有不足欢迎在 issue 中指正。
-
-#### 更新 
-
-《Linux达人养成计划 Ⅰ》Notes pdf 版链接 
