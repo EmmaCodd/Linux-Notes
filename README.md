@@ -8,7 +8,7 @@ Date: 2016-10-14
 
 其中 pdf 单行本下载地址为 [Linux Notes.pdf | Google Drive](https://drive.google.com/open?id=0B-swxIcRWt5Ea0NZVF9DdHZLeW8)
 
-内容为 Tony 老师所授内容以及自己在 CentOs 7 上的演示。
+内容为 Tony 老师所授内容以及自己在 CentOs 7 上的演示
 
 * 命令格式
 * 目录处理命令（上）
